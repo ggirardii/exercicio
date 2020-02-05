@@ -1,0 +1,21 @@
+.titulo{
+  margin: 25px;
+ }
+ .grid-container{
+  padding: 25px 100px;
+ }
+ .desconhecido{
+  color: rgba($color: black, $alpha: 0.3);
+ }
+ .btn.btn-deletar{
+  background-color: lightgray;
+  color: white;
+  font-weight: bold;
+ }
+ .btn.btn-deletar:hover{
+  background-color: red;
+ }
+ .musica-selecionada{
+  background-color: deepskyblue !important;
+  color: white;
+ }
